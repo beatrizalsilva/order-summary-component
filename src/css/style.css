@@ -83,7 +83,6 @@ main section .informacoes a {
     font-size: 90%;
     transition: 0.3s;
     cursor: pointer;
-    text-decoration: none;
 }
 
 main section .informacoes a:hover {
