@@ -74,7 +74,6 @@ main section .informacoes .texto span {
 
 main section .informacoes .texto strong {
     color: hsl(223, 47%, 23%);
-    font-size: 20px;
 }
 
 main section .informacoes a {
